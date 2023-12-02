@@ -1,0 +1,18 @@
+{"Meal Plan": [
+    {
+        "carbohydrates": 0,
+        "fats": 0,
+        "protein": 0,
+        "name": "Pizza",
+        "calories": 1000,
+        "eaten": false
+    },
+    {
+        "carbohydrates": 3,
+        "fats": 1,
+        "protein": 0,
+        "name": "Pineapple",
+        "calories": 20,
+        "eaten": true
+    }
+]}

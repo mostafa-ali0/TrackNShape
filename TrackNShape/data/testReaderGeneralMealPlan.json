@@ -1,0 +1,26 @@
+{"Meal Plan": [
+    {
+        "carbohydrates": 0,
+        "fats": 0,
+        "protein": 0,
+        "name": "Burger",
+        "calories": 800,
+        "eaten" : false
+    },
+    {
+        "carbohydrates": 10,
+        "fats": 14,
+        "protein": 12,
+        "name": "Fries",
+        "calories": 250,
+        "eaten" : true
+    },
+    {
+        "carbohydrates": 9,
+        "fats": 12,
+        "protein": 29,
+        "name": "Ice cream",
+        "calories": 450,
+        "eaten" : false
+    }
+]}

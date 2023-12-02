@@ -1,0 +1,26 @@
+{"Meal Plan": [
+    {
+        "carbohydrates": 15,
+        "fats": 9,
+        "protein": 3,
+        "name": "Soda",
+        "calories": 250,
+        "eaten": false
+    },
+    {
+        "carbohydrates": 25,
+        "fats": 49,
+        "protein": 5,
+        "name": "Fries",
+        "calories": 700,
+        "eaten": false
+    },
+    {
+        "carbohydrates": 12,
+        "fats": 90,
+        "protein": 50,
+        "name": "Juicy Burger",
+        "calories": 1200,
+        "eaten": false
+    }
+]}
