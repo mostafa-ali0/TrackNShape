@@ -24,7 +24,7 @@ crucial health and fitness data within this user beginner-friendly application.
 - As a user, I want to be able to save my meal plan to a file (if I so choose)
 - As a user, I want to be able to load my meal plan from a file (if I so choose)
 
-# Instructions for Grader
+# Instructions for User
 
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by adding food to 
 - a meal plan 
